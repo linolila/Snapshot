@@ -1,0 +1,176 @@
+[
+  {
+    "title": "Sahara Desert",
+    "image_url": "https://images.unsplash.com/photo-1531968753448-aae67fa8f7d4",
+    "temperature_type": "Hot",
+    "flora_type": "Desert Plants"
+  },
+  {
+    "title": "Amazon Rainforest",
+    "image_url": "https://images.unsplash.com/photo-1533929726837-6086e5d1d257",
+    "temperature_type": "Tropical",
+    "flora_type": "Rainforest Plants"
+  },
+  {
+    "title": "Everest Base Camp",
+    "image_url": "https://images.unsplash.com/photo-1596496148303-d9f31fb74de8",
+    "temperature_type": "Cold",
+    "flora_type": "Alpine Plants"
+  },
+  {
+    "title": "Great Barrier Reef",
+    "image_url": "https://images.unsplash.com/photo-1586087767486-5bbfffa7b42a",
+    "temperature_type": "Warm",
+    "flora_type": "Coral"
+  },
+  {
+    "title": "Yellowstone National Park",
+    "image_url": "https://images.unsplash.com/photo-1579825642586-6701a79fe728",
+    "temperature_type": "Cool",
+    "flora_type": "Coniferous Trees"
+  },
+  {
+    "title": "Atacama Desert",
+    "image_url": "https://images.unsplash.com/photo-1591423316907-f9d4e9d4e335",
+    "temperature_type": "Hot",
+    "flora_type": "Cactus"
+  },
+  {
+    "title": "Kilimanjaro",
+    "image_url": "https://images.unsplash.com/photo-1503466025319-b7a2bedf8fe6",
+    "temperature_type": "Cold",
+    "flora_type": "Alpine Plants"
+  },
+  {
+    "title": "Iguazu Falls",
+    "image_url": "https://images.unsplash.com/photo-1590365548892-26a3cf09e527",
+    "temperature_type": "Warm",
+    "flora_type": "Rainforest Plants"
+  },
+  {
+    "title": "Antarctica",
+    "image_url": "https://images.unsplash.com/photo-1482030904811-69a0d05093b1",
+    "temperature_type": "Freezing",
+    "flora_type": "Lichens and Mosses"
+  },
+  {
+    "title": "Yosemite National Park",
+    "image_url": "https://images.unsplash.com/photo-1469746397088-2b6ca4f08e70",
+    "temperature_type": "Cool",
+    "flora_type": "Sequoia Trees"
+  },
+  {
+    "title": "Machu Picchu",
+    "image_url": "https://images.unsplash.com/photo-1504412903950-3b6bc2ca45b1",
+    "temperature_type": "Mild",
+    "flora_type": "Andean Cloud Forest"
+  },
+  {
+    "title": "Victoria Falls",
+    "image_url": "https://images.unsplash.com/photo-1594854643911-14400d7a0d3e",
+    "temperature_type": "Warm",
+    "flora_type": "Rainforest Plants"
+  },
+  {
+    "title": "Grand Canyon",
+    "image_url": "https://images.unsplash.com/photo-1596813960291-45aeeb6c6b28",
+    "temperature_type": "Hot",
+    "flora_type": "Cacti"
+  },
+  {
+    "title": "Galapagos Islands",
+    "image_url": "https://images.unsplash.com/photo-1600660510155-e42c271e63b3",
+    "temperature_type": "Tropical",
+    "flora_type": "Endemic Species"
+  },
+  {
+    "title": "Denali National Park",
+    "image_url": "https://images.unsplash.com/photo-1530595467837-8e29ab83d12f",
+    "temperature_type": "Cold",
+    "flora_type": "Tundra Plants"
+  },
+  {
+    "title": "Plitvice Lakes National Park",
+    "image_url": "https://images.unsplash.com/photo-1569505034451-0cfa8683d1ec",
+    "temperature_type": "Cool",
+    "flora_type": "Deciduous Trees"
+  },
+  {
+    "title": "Tongariro National Park",
+    "image_url": "https://images.unsplash.com/photo-1519815940806-c983a97c17f3",
+    "temperature_type": "Cool",
+    "flora_type": "Alpine Plants"
+  },
+  {
+    "title": "Redwood National and State Parks",
+    "image_url": "https://images.unsplash.com/photo-1600575069281-85c68d6fa145",
+    "temperature_type": "Cool",
+    "flora_type": "Redwood Trees"
+  },
+  {
+    "title": "Uluru",
+    "image_url": "https://images.unsplash.com/photo-1501640837-7f3fc1eb1e7e",
+    "temperature_type": "Hot",
+    "flora_type": "Desert Plants"
+  },
+  {
+    "title": "Tikal National Park",
+    "image_url": "https://images.unsplash.com/photo-1577914992483-fc7afcdf0ab3",
+    "temperature_type": "Tropical",
+    "flora_type": "Rainforest Plants"
+  },
+  {
+    "title": "Lake Tahoe",
+    "image_url": "https://images.unsplash.com/photo-1596499820776-e1d7f36f6f4c",
+    "temperature_type": "Cool",
+    "flora_type": "Coniferous Trees"
+  },
+  {
+    "title": "Serengeti National Park",
+    "image_url": "https://images.unsplash.com/photo-1536746784239-7b1f0087ab75",
+    "temperature_type": "Tropical",
+    "flora_type": "Grasslands"
+  },
+  {
+    "title": "Death Valley National Park",
+    "image_url": "https://images.unsplash.com/photo-1538517552576-0bfc8ca0d4a2",
+    "temperature_type": "Hot",
+    "flora_type": "Desert Plants"
+  },
+  {
+    "title": "Giant's Causeway",
+    "image_url": "https://images.unsplash.com/photo-1527939760524-2db86110e9e5",
+    "temperature_type": "Cool",
+    "flora_type": "Coastal Plants"
+  },
+  {
+    "title": "Sagano Bamboo Forest",
+    "image_url": "https://images.unsplash.com/photo-1507807021633-cf9b12e1cf67",
+    "temperature_type": "Cool",
+    "flora_type": "Bamboo"
+  },
+  {
+    "title": "Uluru-Kata Tjuta National Park",
+    "image_url": "https://images.unsplash.com/photo-1519677100204-a8dd06cd80c9",
+    "temperature_type": "Hot",
+    "flora_type": "Desert Plants"
+  },
+  {
+    "title": "Niagara Falls",
+    "image_url": "https://images.unsplash.com/photo-1595421586823-6b9d38a64d09",
+    "temperature_type": "Cool",
+    "flora_type": "Riverine Plants"
+  },
+  {
+    "title": "Plitvice Lakes National Park",
+    "image_url": "https://images.unsplash.com/photo-1516879296944-ef50c0b3ad5a",
+    "temperature_type": "Cool",
+    "flora_type": "Deciduous Trees"
+  },
+  {
+    "title": "Galapagos Islands",
+    "image_url": "https://images.unsplash.com/photo-1515537102973-cc251b71fa07",
+    "temperature_type": "Tropical",
+    "flora_type": "Endemic Species"
+  }
+]
